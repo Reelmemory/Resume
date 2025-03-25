@@ -428,7 +428,7 @@ img {
     margin-bottom: var(--mb-6);
   }
   .section-title::after {
-    width: 80px;
+    width: 200px;
     top: 3rem;
   }
   .nav {
